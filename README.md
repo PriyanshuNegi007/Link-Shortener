@@ -9,6 +9,10 @@ https://link-shortener-6kgc.onrender.com
 
 > **Note:** This project is hosted on Render's free tier. If the application has been inactive for a while, the first request may take 30–60 seconds while the server wakes up.
 
+> ## 📸 Screenshot
+
+![URL Shortener Homepage](./screenshot/image.png)
+
 ## ✨ Features
 
 * Create custom short URLs
